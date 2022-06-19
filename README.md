@@ -1,1 +1,5 @@
-# Project6_R_StatisticalAnalysis_HeartDisease
+### Project 6: Inferential Statistics with R in Heart Disease using Logistic Regression
+- Cardiovascular diseases (CVDs) are the leading cause of death globally. WHO estimated that 18 million people died from CVDs in 2019, representing 32% of all global deaths. Since 1990, the most significant increase in deaths has been from heart disease, rising by more than 12 million to 18 million deaths in 2019 (WHO, 2022).
+- Most cardiovascular diseases can be prevented by addressing behavioral risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity, and harmful use of alcohol. It is crucial to detect the cardiovascular disease as early as possible to begin management with counseling and medicines (WHO, 2022).
+- This project aims to investigate the most relevant factors of heart disease as well as predict the overall risk using logistic regression on data collected from an ongoing heart study in Framingham, Massachusetts, United States.
+- Now, let's get started [Inferential Statistics with R in Heart Disease](https://github.com/TanThienNguyenVN/Project6_R_StatisticalAnalysis_HeartDisease/blob/main/TanThienNguyen_Statistical%20Analysis%20with%20R_HeartDisease.pdf)
